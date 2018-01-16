@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlogOnFire</string>
+    <string name="action_settings">Settings</string>
+    <string name="update">Update</string>
+    <string name="post_description">Post Description</string>
+    <string name="post_title">Post Title</string>
+</resources>
